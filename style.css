@@ -1,0 +1,44 @@
+.row-1{
+    margin-left: 70px;
+    
+   }
+   .col-md-5{
+       text-align: center;
+   }
+   .prize{
+       color: blue;
+   }
+   .banner-button{
+       background-color: greenyellow;
+       color: rgb(10, 10, 10);
+       padding: 4px;
+       border-radius: 10px;
+       box-shadow: 5px 5px 12px black;
+   }
+   .bg{
+    background-image: url(bg-1.png);
+    background-repeat: no-repeat;
+   }
+   .mobile{
+       width: 85%;
+      height: min-content;
+       margin-left: 70px;
+       box-shadow: 10px 10px 20px gray;
+       border-radius: 30px;
+
+   }
+   .mail{
+    position: relative;
+    top: 150px;
+    background-color: rgb(253, 139, 196);
+    height: 280px;
+    margin: 100px;
+
+}
+footer{
+    position: relative;
+    top: 100px;
+    text-align: center;
+}
+
+
